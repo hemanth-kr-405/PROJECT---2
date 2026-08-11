@@ -1,0 +1,16 @@
+-xc++
+-std=c++11
+--target=i686-pc-windows-gnu
+-D__MSVCRT_VERSION__=0x0700
+-isystem
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++
+-isystem
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32
+-isystem
+C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/backward
+-isystem
+C:/MinGW/lib/gcc/mingw32/6.3.0/include
+-isystem
+C:/MinGW/include
+-isystem
+C:/MinGW/lib/gcc/mingw32/6.3.0/include-fixed

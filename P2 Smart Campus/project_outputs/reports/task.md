@@ -1,0 +1,4 @@
+- [x] Add the notification toggle button in renderChatLayout header in index.html
+- [x] Implement toggleChatNotifications(event) logic to request permissions and save to localStorage in index.html
+- [x] Update the storage event listener inside init() to dispatch native browser desktop notifications
+- [x] Verify browser desktop notifications manually and update walkthrough.md

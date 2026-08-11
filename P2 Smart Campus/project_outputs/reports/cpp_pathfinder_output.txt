@@ -1,0 +1,2 @@
+Path from Main Gate to CS Lab: [1,2,3,4]
+Distance: 450 meters (~5 min walk)
